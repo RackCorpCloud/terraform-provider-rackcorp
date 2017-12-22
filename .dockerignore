@@ -1,0 +1,6 @@
+.git/
+*.sh
+bin/
+exercise/
+Dockerfile
+LICENSE
